@@ -1,0 +1,16 @@
+Customer Support Ticket Sentiment Analysis Report
+================================================
+
+Total Tickets Analyzed: 8469
+
+Sentiment Breakdown:
+-------------------
+Positive: 4403 (52.0%)
+Negative: 2446 (28.9%)
+Neutral: 1620 (19.1%)
+
+Key Findings:
+-------------
+- More than half of the tickets (52%) express positive sentiment
+- About 29% of the tickets show negative sentiment
+- The remainng 19% are neutral in tone
